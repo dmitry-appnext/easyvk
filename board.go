@@ -1,4 +1,4 @@
-package easyvk_go
+package easyvk
 
 import (
 	"fmt"

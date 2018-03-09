@@ -1,4 +1,4 @@
-package easyvk_go
+package easyvk
 
 // An UserObject contains information about user.
 // https://vk.com/dev/objects/user
