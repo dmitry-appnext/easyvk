@@ -1,4 +1,4 @@
-package easyvk
+package easyvk_go
 
 func boolConverter(itIs bool) string {
 	if itIs {

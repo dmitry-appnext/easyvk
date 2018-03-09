@@ -1,6 +1,6 @@
 // Package easyvk provides you simple way
 // to work with VK API.
-package easyvk
+package easyvk_go
 
 import (
 	"net/url"
